@@ -1,0 +1,43 @@
+body{
+	background-image: url(1.svg);
+	background-color: purple;
+}
+
+.container{
+	display: flex;
+}
+
+#logo{
+	width: 150px;
+	margin-left:40px;
+}
+
+#mockup{
+	width: 350px;
+	height: 250px;
+	margin-top: 40px;
+	margin-left: 40px;
+}
+
+.right{
+	margin-left: 60px;
+	padding-top: 40px;
+	color: white;
+}
+h1{
+	font-family: 'Roboto', sans-serif;
+}
+
+ p{
+ 	font-family: 'Roboto', sans-serif;
+ 	font-size: 100;
+
+}
+
+button{
+height: 45px;
+width: 150px;
+border-radius: 30px;
+color: grey;
+
+}
